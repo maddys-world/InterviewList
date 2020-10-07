@@ -1,0 +1,77 @@
+                                     Multithreading_Questions
+1.How to avoid deadlock in Java?
+https://javarevisited.blogspot.com/2018/08/how-to-avoid-deadlock-in-java-threads.html
+
+                                        OOPS_Questions
+Why main method is public static in Java
+Read more: https://javarevisited.blogspot.com/2011/12/main-public-static-java-void-method-why.html
+
+
+                                       Genercis_Questions
+
+                                        String_Questions
+
+1. Why String is Immutable or Final in Java
+https://javarevisited.blogspot.com/2010/10/why-string-is-immutable-or-final-in-java.html
+
+2.Why character array is better than String for Storing password in Java
+https://javarevisited.blogspot.com/2012/03/why-character-array-is-better-than.html
+
+
+                                        Exceptions_Questions
+1. Checked and unchecked
+
+
+                                        Collections_Questions
+
+                                        serialization_Questions
+                                        https://javarevisited.blogspot.com/2011/04/top-10-java-serialization-interview.html
+
+1. Override equals and hashcode
+https://www.journaldev.com/21095/java-equals-hashcode
+
+2. How HashMap works in java
+https://javarevisited.blogspot.com/2011/02/how-hashmap-works-in-java.html
+
+3.How get method of HashMap or Hashtable works internally in Java
+https://www.java67.com/2013/06/how-get-method-of-hashmap-or-hashtable-works-internally.html
+
+4.How to sort Object in Java - Comparator and Comparable Example
+https://www.java67.com/2012/10/how-to-sort-object-in-java-comparator-comparable-example.html
+
+5.How to use ConcurrentHashMap in Java - Example Tutorial and Working
+https://javarevisited.blogspot.com/2013/02/concurrenthashmap-in-java-example-tutorial-working.html
+
+6.How HashSet Internally Works in Java
+https://www.java67.com/2014/01/how-hashset-is-implemented-or-works-internally-java.html
+
+7.What is difference between HashMap and Hashtable in Java?
+https://javarevisited.blogspot.com/2010/10/difference-between-hashmap-and.html
+
+8. fail fast and fail-safe iterator
+https://javarevisited.blogspot.com/2012/02/fail-safe-vs-fail-fast-iterator-in-java.html
+https://www.java67.com/2015/06/what-is-fail-safe-and-fail-fast-iterator-in-java.html
+
+9.What is difference between Enumeration and Iterator in Java?
+https://javarevisited.blogspot.com/2010/10/what-is-difference-between-enumeration.html
+
+
+
+                                                  Mislaneious(133 interview questions)
+
+1.https://javarevisited.blogspot.com/2015/10/133-java-interview-questions-answers-from-last-5-years.html
+
+2.https://www.java67.com/2012/09/top-10-tricky-java-interview-questions-answers.html
+
+3.https://www.java67.com/2012/09/top-10-tough-core-java-interview-questions-answers.html
+
+3.Top 25 Java Collection Framework Interview Questions Answers for Freshers and Experienced Programmers
+https://javarevisited.blogspot.com/2011/11/collection-interview-questions-answers.html
+4.https://javarevisited.blogspot.com/2011/06/top-programming-interview-questions.html
+
+JVM
+5 https://www.guru99.com/java-virtual-machine-jvm.html
+
+Top 10 Java Interview Questions for 2 to 3 years experience - Answered
+Read more: https://www.java67.com/2012/10/java-interview-questions-for-2-to-3-4-years-experienced.html#ixzz6aAXPotIV
+
