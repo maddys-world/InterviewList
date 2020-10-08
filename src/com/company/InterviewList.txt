@@ -2,31 +2,89 @@
 1.How to avoid deadlock in Java?
 https://javarevisited.blogspot.com/2018/08/how-to-avoid-deadlock-in-java-threads.html
 
+2.Thread-safe Singleton in Java using Double Checked Locking Idiom
+Read more: https://www.java67.com/2015/09/thread-safe-singleton-in-java-using-double-checked-locking-pattern.html
+
+3.Difference between transient and volatile keyword in Java
+  Read more: https://javarevisited.blogspot.com/2012/03/difference-between-transient-and.html
+
+4.Difference between Serializable and Externalizable in Java Serialization
+  Read more: https://javarevisited.blogspot.com/2012/01/serializable-externalizable-in-java.html
+
+5.What is the difference between Runnable and Thread in Java
+Read more: https://www.java67.com/2012/10/java-interview-questions-for-2-to-3-4-years-experienced.html
+
+6.What happens if you don't call wait and notify from the synchronized block
+Read more: https://www.java67.com/2012/10/java-interview-questions-for-2-to-3-4-years-experienced.html
+
+7.Write code to solve the producer-consumer problem in Java.
+  Read more: https://www.java67.com/2012/10/java-interview-questions-for-2-to-3-4-years-experienced.html
+
+8.Why we call start() method which in turns calls run() method, why not we directly call run() method?
+  Read more: https://javarevisited.blogspot.com/2018/07/java-multi-threading-interview-questions-answers-from-investment-banks.html
+
+9.What is a race condition? How will you find and solve race condition?
+  Read more: https://javarevisited.blogspot.com/2018/07/java-multi-threading-interview-questions-answers-from-investment-banks.html
+
+10.What is the difference between CyclicBarriar and CountdownLatch in Java
+   Read more: https://javarevisited.blogspot.com/2018/07/java-multi-threading-interview-questions-answers-from-investment-banks.html
+
+11.How will you awake a blocked thread in Java
+   Read more: https://javarevisited.blogspot.com/2018/07/java-multi-threading-interview-questions-answers-from-investment-banks.html
+
+12.Difference between deadlock and livelock, deadlock and starvation?
+   Read more: https://javarevisited.blogspot.com/2018/07/java-multi-threading-interview-questions-answers-from-investment-banks.html
+
+
                                         OOPS_Questions
-Why main method is public static in Java
+1.Why main method is public static in Java
 Read more: https://javarevisited.blogspot.com/2011/12/main-public-static-java-void-method-why.html
+
+2.10 Singleton Pattern Interview Questions in Java - Answered
+Read more: https://javarevisited.blogspot.com/2011/03/10-interview-questions-on-singleton.html
 
 
                                        Genercis_Questions
+
 
                                         String_Questions
 
 1. Why String is Immutable or Final in Java
 https://javarevisited.blogspot.com/2010/10/why-string-is-immutable-or-final-in-java.html
 
-2.Why character array is better than String for Storing password in Java
+2.Why String Class is made Immutable or Final in Java - 5 Reasons
+Read more: https://www.java67.com/2014/01/why-string-class-has-made-immutable-or-final-java.html
+
+3.Why character array is better than String for Storing password in Java
 https://javarevisited.blogspot.com/2012/03/why-character-array-is-better-than.html
+
+4.How SubString method works in Java - Memory Leak Fixed in JDK 1.7
+  Read more: https://javarevisited.blogspot.com/2011/10/how-substring-in-java-works.html#ixzz6aCaHygGT
+  String intern()
+
+5.Top 10 Java String interview Question answers - Advanced
+  Read more: https://javarevisited.blogspot.com/2012/10/10-java-string-interview-question-answers-top.html
 
 
                                         Exceptions_Questions
 1. Checked and unchecked
 
-
-                                        Collections_Questions
+2.Difference between throw and throws in Java
 
                                         serialization_Questions
-                                        https://javarevisited.blogspot.com/2011/04/top-10-java-serialization-interview.html
 
+
+What is Serialization in Java
+https://javarevisited.blogspot.com/2011/04/top-10-java-serialization-interview.html
+
+1.Difference between transient and volatile keyword in Java
+Read more: https://javarevisited.blogspot.com/2012/03/difference-between-transient-and.html
+
+2.What is serialVersionUID? What would happen if you don't define this?
+Read more: https://javarevisited.blogspot.com/2011/04/top-10-java-serialization-interview.html
+
+
+                                                 Collections_Questions
 1. Override equals and hashcode
 https://www.journaldev.com/21095/java-equals-hashcode
 
@@ -55,6 +113,21 @@ https://www.java67.com/2015/06/what-is-fail-safe-and-fail-fast-iterator-in-java.
 9.What is difference between Enumeration and Iterator in Java?
 https://javarevisited.blogspot.com/2010/10/what-is-difference-between-enumeration.html
 
+10.What is the difference between LinkedList and ArrayList in Java
+Read more: https://www.java67.com/2012/10/java-interview-questions-for-2-to-3-4-years-experienced.html#ixzz6aJBCkAgi
+
+
+10. Top 5 Concurrent Collections Java Programmer Should Know
+Read more: https://javarevisited.blogspot.com/2013/02/concurrent-collections-from-jdk-56-java-example-tutorial.html
+
+
+                                          coding base
+
+1. Write code to print the Fibonacci series in Java?
+Read more: https://www.java67.com/2012/10/java-interview-questions-for-2-to-3-4-years-experienced.html
+
+2.Write Java program to reverse String in Java without using StringBuffer
+Read more: https://www.java67.com/2012/10/java-interview-questions-for-2-to-3-4-years-experienced.html#ixzz6aJC9LC6b
 
 
                                                   Mislaneious(133 interview questions)
@@ -73,5 +146,5 @@ JVM
 5 https://www.guru99.com/java-virtual-machine-jvm.html
 
 Top 10 Java Interview Questions for 2 to 3 years experience - Answered
-Read more: https://www.java67.com/2012/10/java-interview-questions-for-2-to-3-4-years-experienced.html#ixzz6aAXPotIV
+Read more: https://www.java67.com/2012/10/java-interview-questions-for-2-to-3-4-years-experienced.html
 
